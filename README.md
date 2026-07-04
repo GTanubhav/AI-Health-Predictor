@@ -220,6 +220,7 @@ Models are trained using **Random Forest Classifier** and saved using **Joblib**
 ## Screenshots
 Diabetes Prediction Models accuracy chosing best model (Random Forest)
 <img width="642" height="223" alt="image" src="https://github.com/user-attachments/assets/c51b2f10-d177-4aec-a356-3bb4d64d4db9" />
+
 Heart Disease Prediction Models accuracy chosing best model (Random Forest)
 <img width="652" height="188" alt="image" src="https://github.com/user-attachments/assets/61c6f917-c662-4e53-bafd-ff4aec9057f3" />
 
