@@ -249,7 +249,7 @@ Add screenshots of:
 
 **Anubhav**
 
-GitHub: https://github.com/<GTanubhav>
+GitHub: https://github.com/GTanubhav
 
 ---
 
